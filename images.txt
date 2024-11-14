@@ -1,3 +1,1 @@
 ntp
-nginx
-kartoza/geoserver

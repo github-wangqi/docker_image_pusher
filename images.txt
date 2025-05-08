@@ -1,1 +1,1 @@
-mysql:5.7
+zabbix/zabbix-java-gateway:latest
